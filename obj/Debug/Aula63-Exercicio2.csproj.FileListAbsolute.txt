@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\bin\Debug\Aula63-Exercicio2.exe.config
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\bin\Debug\Aula63-Exercicio2.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\bin\Debug\Aula63-Exercicio2.pdb
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63-Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63-Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63_Exercicio2.Form1.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63_Exercicio2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63-Exercicio2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63-Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63-Exercicio2.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63-Exercicio2.pdb
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63_Exercicio2.Servicos.Carros.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula63-Exercicio2\obj\Debug\Aula63_Exercicio2.Telas.Carros.resources
