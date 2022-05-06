@@ -33,5 +33,10 @@ namespace Aula63_Exercicio2
             telaCarros.MdiParent = this;
             telaCarros.Show();
         }
+
+        private void locaçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

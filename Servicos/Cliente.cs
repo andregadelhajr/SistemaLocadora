@@ -29,10 +29,10 @@ namespace Aula63_Exercicio2.Servicos
         {
             List<Cliente> clientes = new List<Cliente>();
 
-            clientes.Add(new Cliente("João Pedro", 00000000000));
-            clientes.Add(new Cliente("Ricardo", 11111111111));
-            clientes.Add(new Cliente("Ana Luiza", 22222222222));
-            clientes.Add(new Cliente("Joana ", 33333333333));
+            clientes.Add(new Cliente("Andre", 44444444444));
+            clientes.Add(new Cliente("Renata", 11111111111));
+            clientes.Add(new Cliente("Arthur", 22222222222));
+            clientes.Add(new Cliente("Emily", 33333333333));
             return clientes;
         }
     }

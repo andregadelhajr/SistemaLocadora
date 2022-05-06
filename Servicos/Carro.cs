@@ -30,11 +30,11 @@ namespace Aula63_Exercicio2.Servicos
         public static List<Carro> InitializeCarros()
         {
             List<Carro> carros = new List<Carro>();
-            carros.Add(new Carro("Ford", "Fiesta", "CSD2343"));
-            carros.Add(new Carro("Chevrolet", "S10", "KCS4843"));
-            carros.Add(new Carro("Volkswagen", "Golf", "GVB2673"));
-            carros.Add(new Carro("Nissan", "Match", "UVS3843"));
-            carros.Add(new Carro("Ford", "Focus", "KGH5436"));
+            carros.Add(new Carro("Ford", "Maverick", "CSD2343"));
+            carros.Add(new Carro("Ford", "Ranger", "KGH5436")); 
+            carros.Add(new Carro("Volkswagen", "Fox", "GVB2673"));
+            carros.Add(new Carro("Mitsubishi", "Lancer", "UVS3843"));
+            carros.Add(new Carro("Chevrolet", "Camaro", "KCS4843"));
             return carros;
         }
     }

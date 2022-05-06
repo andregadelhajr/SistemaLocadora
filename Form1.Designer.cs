@@ -53,11 +53,12 @@
             this.locaçãoToolStripMenuItem.Name = "locaçãoToolStripMenuItem";
             this.locaçãoToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
             this.locaçãoToolStripMenuItem.Text = "Locação";
+            this.locaçãoToolStripMenuItem.Click += new System.EventHandler(this.locaçãoToolStripMenuItem_Click);
             // 
             // mnCarro
             // 
             this.mnCarro.Name = "mnCarro";
-            this.mnCarro.Size = new System.Drawing.Size(103, 22);
+            this.mnCarro.Size = new System.Drawing.Size(180, 22);
             this.mnCarro.Text = "Carro";
             this.mnCarro.Click += new System.EventHandler(this.mnCarro_Click);
             // 
